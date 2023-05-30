@@ -9,3 +9,8 @@
 #5. Make sure the input cursor shows on a new line:
 
 # Solution: https://replit.com/@appbrewery/band-name-generator-end
+
+print("Hello and welcome to band name maker")
+city = input("What city did they grow up in?\n")
+pet = input("Please put in your favorite pet name:\n")
+print("This is your band name " + city + " " + pet )
