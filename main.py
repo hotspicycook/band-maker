@@ -14,3 +14,5 @@ print("Hello and welcome to band name maker")
 city = input("What city did they grow up in?\n")
 pet = input("Please put in your favorite pet name:\n")
 print("This is your band name " + city + " " + pet )
+
+
